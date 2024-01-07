@@ -1,0 +1,15 @@
+name,price,quantity,status
+Mobile,20000,5,Buy
+Mobile,20000,5,Buy
+Mobile,20000,5,Buy
+Mobile,15000,5,Buy
+Mobile,15000,5,Buy
+Laptop,70000,10,Buy
+Laptop,150000,10,Buy
+Laptop,30000,10,Buy
+Laptop,50000,10,Buy
+Headphone,1000,10,Buy
+Headphone,900,7,Buy
+Headphone,5000,7,Buy
+Headphone,600,7,Buy
+Headphone,3000,7,Buy
